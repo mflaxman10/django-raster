@@ -1,7 +1,7 @@
 from __future__ import unicode_literals
 
 IMG_FORMATS = {'.png': 'PNG', '.jpg': 'JPEG'}
-EXPORT_MAX_PIXELS = 10000 * 10000
+EXPORT_MAX_PIXELS = 20000 * 20000
 MAX_EXPORT_NAME_LENGTH = 100
 README_TEMPLATE = """Django Raster Algebra Export
 ============================
